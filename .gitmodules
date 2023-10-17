@@ -1,0 +1,15 @@
+[submodule "Mini-Router"]
+	path = Mini-Router
+	url = https://github.com/EmanuelDicu/Mini-Router.git
+[submodule "Mini-Vim"]
+	path = Mini-Vim
+	url = https://github.com/EmanuelDicu/Mini-Vim.git
+[submodule "Algo-Assembly"]
+	path = Algo-Assembly
+	url = https://github.com/EmanuelDicu/Algo-Assembly.git
+[submodule "Game-Tree"]
+	path = Game-Tree
+	url = https://github.com/EmanuelDicu/Game-Tree.git
+[submodule "Competitive-Algo"]
+	path = Competitive-Algo
+	url = https://github.com/EmanuelDicu/Competitive-Algo.git
